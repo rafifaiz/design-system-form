@@ -2,7 +2,7 @@ import { useState } from "react";
 import { useForm } from "react-hook-form";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { z } from "zod";
-import { Input } from "../atoms/input";
+import { Input } from "../atoms/Input";
 import { PasswordInput } from "../atoms/PasswordInput";
 import { Select } from "../atoms/Select";
 import { Textarea } from "../atoms/Textarea";
